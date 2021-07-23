@@ -1,0 +1,16 @@
+C:\Users\Kim Newton\Documents\C#\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\Kim Newton\Documents\C#\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\Kim Newton\Documents\C#\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\Kim Newton\Documents\C#\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\Kim Newton\Documents\C#\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\Kim Newton\Documents\C#\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\Kim Newton\Documents\C#\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\Kim Newton\Documents\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Kim Newton\Documents\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim Newton\Documents\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Kim Newton\Documents\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Kim Newton\Documents\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Kim Newton\Documents\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\Kim Newton\Documents\C#\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\Kim Newton\Documents\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\Kim Newton\Documents\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
