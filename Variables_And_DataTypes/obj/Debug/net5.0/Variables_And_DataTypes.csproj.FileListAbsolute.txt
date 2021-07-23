@@ -1,0 +1,16 @@
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\bin\Debug\net5.0\Variables_And_DataTypes.exe
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\bin\Debug\net5.0\Variables_And_DataTypes.deps.json
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\bin\Debug\net5.0\Variables_And_DataTypes.runtimeconfig.json
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\bin\Debug\net5.0\Variables_And_DataTypes.runtimeconfig.dev.json
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\bin\Debug\net5.0\Variables_And_DataTypes.dll
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\bin\Debug\net5.0\ref\Variables_And_DataTypes.dll
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\bin\Debug\net5.0\Variables_And_DataTypes.pdb
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\obj\Debug\net5.0\Variables_And_DataTypes.csproj.AssemblyReference.cache
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\obj\Debug\net5.0\Variables_And_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\obj\Debug\net5.0\Variables_And_DataTypes.AssemblyInfoInputs.cache
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\obj\Debug\net5.0\Variables_And_DataTypes.AssemblyInfo.cs
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\obj\Debug\net5.0\Variables_And_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\obj\Debug\net5.0\Variables_And_DataTypes.dll
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\obj\Debug\net5.0\ref\Variables_And_DataTypes.dll
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\obj\Debug\net5.0\Variables_And_DataTypes.pdb
+C:\Users\Kim Newton\Documents\C#\Variables_And_DataTypes\obj\Debug\net5.0\Variables_And_DataTypes.genruntimeconfig.cache
