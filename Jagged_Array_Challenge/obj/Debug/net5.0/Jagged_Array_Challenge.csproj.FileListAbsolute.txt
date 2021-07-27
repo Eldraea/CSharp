@@ -1,0 +1,16 @@
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\bin\Debug\net5.0\Jagged_Array_Challenge.exe
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\bin\Debug\net5.0\Jagged_Array_Challenge.deps.json
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\bin\Debug\net5.0\Jagged_Array_Challenge.runtimeconfig.json
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\bin\Debug\net5.0\Jagged_Array_Challenge.runtimeconfig.dev.json
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\bin\Debug\net5.0\Jagged_Array_Challenge.dll
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\bin\Debug\net5.0\ref\Jagged_Array_Challenge.dll
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\bin\Debug\net5.0\Jagged_Array_Challenge.pdb
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\obj\Debug\net5.0\Jagged_Array_Challenge.csproj.AssemblyReference.cache
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\obj\Debug\net5.0\Jagged_Array_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\obj\Debug\net5.0\Jagged_Array_Challenge.AssemblyInfoInputs.cache
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\obj\Debug\net5.0\Jagged_Array_Challenge.AssemblyInfo.cs
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\obj\Debug\net5.0\Jagged_Array_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\obj\Debug\net5.0\Jagged_Array_Challenge.dll
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\obj\Debug\net5.0\ref\Jagged_Array_Challenge.dll
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\obj\Debug\net5.0\Jagged_Array_Challenge.pdb
+C:\Users\Kim Newton\Documents\C#\Jagged_Array_Challenge\obj\Debug\net5.0\Jagged_Array_Challenge.genruntimeconfig.cache
