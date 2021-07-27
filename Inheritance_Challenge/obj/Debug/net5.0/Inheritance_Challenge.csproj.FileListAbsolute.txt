@@ -1,0 +1,16 @@
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\bin\Debug\net5.0\Inheritance_Challenge.exe
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\bin\Debug\net5.0\Inheritance_Challenge.deps.json
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\bin\Debug\net5.0\Inheritance_Challenge.runtimeconfig.json
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\bin\Debug\net5.0\Inheritance_Challenge.runtimeconfig.dev.json
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\bin\Debug\net5.0\Inheritance_Challenge.dll
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\bin\Debug\net5.0\ref\Inheritance_Challenge.dll
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\bin\Debug\net5.0\Inheritance_Challenge.pdb
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\obj\Debug\net5.0\Inheritance_Challenge.csproj.AssemblyReference.cache
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\obj\Debug\net5.0\Inheritance_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\obj\Debug\net5.0\Inheritance_Challenge.AssemblyInfoInputs.cache
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\obj\Debug\net5.0\Inheritance_Challenge.AssemblyInfo.cs
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\obj\Debug\net5.0\Inheritance_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\obj\Debug\net5.0\Inheritance_Challenge.dll
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\obj\Debug\net5.0\ref\Inheritance_Challenge.dll
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\obj\Debug\net5.0\Inheritance_Challenge.pdb
+C:\Users\Kim Newton\Documents\C#\Inheritance_Challenge\obj\Debug\net5.0\Inheritance_Challenge.genruntimeconfig.cache
