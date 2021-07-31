@@ -1,0 +1,16 @@
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\bin\Debug\net5.0\Delegates_Basics.exe
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\bin\Debug\net5.0\Delegates_Basics.deps.json
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\bin\Debug\net5.0\Delegates_Basics.runtimeconfig.json
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\bin\Debug\net5.0\Delegates_Basics.runtimeconfig.dev.json
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\bin\Debug\net5.0\Delegates_Basics.dll
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\bin\Debug\net5.0\ref\Delegates_Basics.dll
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\bin\Debug\net5.0\Delegates_Basics.pdb
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\obj\Debug\net5.0\Delegates_Basics.csproj.AssemblyReference.cache
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\obj\Debug\net5.0\Delegates_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\obj\Debug\net5.0\Delegates_Basics.AssemblyInfoInputs.cache
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\obj\Debug\net5.0\Delegates_Basics.AssemblyInfo.cs
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\obj\Debug\net5.0\Delegates_Basics.csproj.CoreCompileInputs.cache
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\obj\Debug\net5.0\Delegates_Basics.dll
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\obj\Debug\net5.0\ref\Delegates_Basics.dll
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\obj\Debug\net5.0\Delegates_Basics.pdb
+C:\Users\Kim Newton\Documents\C#\Delegates_Basics\obj\Debug\net5.0\Delegates_Basics.genruntimeconfig.cache
