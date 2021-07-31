@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Hello_World_WPF/1.0.0": {
+        "runtime": {
+          "Hello_World_WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hello_World_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
