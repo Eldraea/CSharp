@@ -1,0 +1,7 @@
+C:\Users\Kim Newton\Documents\C#\LinqLists\bin\Debug\LinqLists.exe.config
+C:\Users\Kim Newton\Documents\C#\LinqLists\bin\Debug\LinqLists.exe
+C:\Users\Kim Newton\Documents\C#\LinqLists\bin\Debug\LinqLists.pdb
+C:\Users\Kim Newton\Documents\C#\LinqLists\obj\Debug\LinqLists.csproj.AssemblyReference.cache
+C:\Users\Kim Newton\Documents\C#\LinqLists\obj\Debug\LinqLists.csproj.CoreCompileInputs.cache
+C:\Users\Kim Newton\Documents\C#\LinqLists\obj\Debug\LinqLists.exe
+C:\Users\Kim Newton\Documents\C#\LinqLists\obj\Debug\LinqLists.pdb
