@@ -1,0 +1,15 @@
+C:\Users\Kim Newton\Documents\C#\ZoooManager\bin\Debug\ZoooManager.exe.config
+C:\Users\Kim Newton\Documents\C#\ZoooManager\bin\Debug\ZoooManager.exe
+C:\Users\Kim Newton\Documents\C#\ZoooManager\bin\Debug\ZoooManager.pdb
+C:\Users\Kim Newton\Documents\C#\ZoooManager\obj\Debug\ZoooManager.csproj.AssemblyReference.cache
+C:\Users\Kim Newton\Documents\C#\ZoooManager\obj\Debug\MainWindow.g.cs
+C:\Users\Kim Newton\Documents\C#\ZoooManager\obj\Debug\App.g.cs
+C:\Users\Kim Newton\Documents\C#\ZoooManager\obj\Debug\ZoooManager_MarkupCompile.cache
+C:\Users\Kim Newton\Documents\C#\ZoooManager\obj\Debug\ZoooManager_MarkupCompile.lref
+C:\Users\Kim Newton\Documents\C#\ZoooManager\obj\Debug\MainWindow.baml
+C:\Users\Kim Newton\Documents\C#\ZoooManager\obj\Debug\ZoooManager.g.resources
+C:\Users\Kim Newton\Documents\C#\ZoooManager\obj\Debug\ZoooManager.Properties.Resources.resources
+C:\Users\Kim Newton\Documents\C#\ZoooManager\obj\Debug\ZoooManager.csproj.GenerateResource.cache
+C:\Users\Kim Newton\Documents\C#\ZoooManager\obj\Debug\ZoooManager.csproj.CoreCompileInputs.cache
+C:\Users\Kim Newton\Documents\C#\ZoooManager\obj\Debug\ZoooManager.exe
+C:\Users\Kim Newton\Documents\C#\ZoooManager\obj\Debug\ZoooManager.pdb
