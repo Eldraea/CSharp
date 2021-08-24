@@ -1,0 +1,7 @@
+C:\Users\Kim Newton\Documents\C#\LinqApplication\bin\Debug\LinqApplication.exe.config
+C:\Users\Kim Newton\Documents\C#\LinqApplication\bin\Debug\LinqApplication.exe
+C:\Users\Kim Newton\Documents\C#\LinqApplication\bin\Debug\LinqApplication.pdb
+C:\Users\Kim Newton\Documents\C#\LinqApplication\obj\Debug\LinqApplication.csproj.AssemblyReference.cache
+C:\Users\Kim Newton\Documents\C#\LinqApplication\obj\Debug\LinqApplication.csproj.CoreCompileInputs.cache
+C:\Users\Kim Newton\Documents\C#\LinqApplication\obj\Debug\LinqApplication.exe
+C:\Users\Kim Newton\Documents\C#\LinqApplication\obj\Debug\LinqApplication.pdb
